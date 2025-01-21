@@ -2,7 +2,9 @@
 
 let song = {
     title: "Apple",
-    album: "Brat"
+    album: "Brat",
+    releaseYear: 2024,
+    isAvailable: false
 }
 
 //↑↑↑↑↑↑↑↑↑↑YOUR CODE goes above here↑↑↑↑↑↑↑↑↑↑
